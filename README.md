@@ -24,3 +24,6 @@ git subtree pull-all
 git subtree pull --prefix spoon-knife/ https://github.com/AhsenBaig-boilerplate/Git-subtree-Spoon-Knife.git main --squash
 ```
 
+```
+git subtree push --prefix spoon-knife/ https://github.com/AhsenBaig-boilerplate/Git-subtree-Spoon-Knife.git main
+```
