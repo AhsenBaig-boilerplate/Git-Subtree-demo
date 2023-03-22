@@ -17,5 +17,5 @@ git subtree pull --prefix spoon-knife/ https://github.com/AhsenBaig-boilerplate/
 ```
 
 ```
-git subtree push --prefix spoon-knife/ https://github.com/AhsenBaig-boilerplate/Git-subtree-Spoon-Knife.git main
+git subtree push --prefix=spoon-knife/ https://github.com/AhsenBaig-boilerplate/Git-subtree-Spoon-Knife.git main
 ```
